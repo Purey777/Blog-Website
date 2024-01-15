@@ -1,0 +1,160 @@
+body,
+h1,
+h2,
+p {
+  font-family: "Montserrat", sans-serif;
+}
+h2 {
+  text-align: center;
+  color: #934a5f;
+}
+
+#heading {
+  background-color: #c2b4d6;
+  color: #000;
+}
+
+#blogs {
+  background-color: #934a5f;
+  color: #fff;
+  text-align: center;
+  padding: 100px;
+}
+
+#testimonials {
+  background-color: #c2b4d6;
+  color: #000;
+  padding: 100px;
+}
+
+
+
+.heading-msg {
+  font-family: "Montserrat", sans-serif;
+  color: #934a5f;
+  font-size: 5rem;
+  font-weight: bolder;
+  padding: 50px;
+  text-align: left;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.footer-msg {
+  text-align: center;
+  color: #000;
+  font-style: italic;
+  font-weight: bolder;
+  padding: 20px;
+}
+
+.navbar {
+  overflow: hidden;
+}
+
+.navbar a {
+  float: right;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #934a5f;
+  color: black;
+}
+
+.testimonial-msg {
+  text-align: center;
+  padding: 100px;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.blog-img {
+  height: 550px;
+  width: auto;
+  border-radius: 20px;
+  position: relative;
+}
+
+.row {
+  margin: auto;
+  text-align: center;
+}
+
+.blog-item {
+  color: #c2b4d6;
+  padding: 10px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.blog-list {
+  color: #934a5f;
+  padding: 5px;
+  margin-top: 15px;
+  font-size: 1rem;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.form-body {
+  background-image: linear-gradient(
+      rgba(201, 201, 232, 0.8),
+      rgba(115, 22, 197, 0.8)
+    ),
+    url("/images/image4.avif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+}
+
+.blog-msg {
+  width: 200px;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.input-text {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+
+.card {
+  background-color: #934a5f;
+}
+
+#read-text {
+  display: none;
+}
+
+.content {
+  display: none;
+}
+
+#read-text:checked ~ .content {
+  display: block;
+}
+
+#read-text:checked ~ label {
+  display: none;
+}
+
+label {
+  display: inline-block;
+  cursor: pointer;
+  color: #000;
+  background-color: #c2b4d6;
+  padding: 3px 13px;
+  border-radius: 3px;
+  margin-top: 12px;
+  font-weight: bold;
+}

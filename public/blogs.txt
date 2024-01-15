@@ -1,0 +1,14 @@
+{
+  "fullName": "Paul Graham",
+  "blogTitle": "Quotes",
+  "blogPost": "The less confident you are, the more serious you have to act.\"\r\n\r\n– Tara Ploughman\r\n\r\n\t\"The condition of man is already close to satiety and arrogance, and there is danger of destruction of everything in existence.\"\r\n\r\n– a Brahmin to Onesicritus, 327 BC, reported in Strabo's Geography\r\n\r\n\t\"Change breaks the brittle.\"\r\n\r\n– Jan Houtema\r\n\r\n\tThe sons of Hermes love to play,\r\nAnd only do their best when they\r\nAre told they oughtn't;\r\nApollo's children never shrink\r\nFrom boring jobs but have to think\r\nTheir work important.\r\n\r\n– W. H. Auden, Under Which Lyre\r\n\r\n\t\"Programs must be written for people to read, and only incidentally for machines to execute.\"\r\n\r\n– Abelson & Sussman, SICP, preface to the first edition\r\n\t\"That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.\""
+}
+{
+  "fullName": "Beard Guy",
+  "blogTitle": "Beards meets food",
+  "blogPost": "2022, are you over already? Inflation was the story of the year, as prices for pantry staples soared. Readers of The New York Times’s Food section turned to stories that helped them cook well, with less. And three years into the coronavirus pandemic, the need to cook satisfying meals quickly and under budget remained a top priority. But readers also wanted escape, be it talking about the latest kitchen gadget, a TikTok trend or food show on TV. And there was news, plenty of it."
+}{
+  "fullName": "Will Tennyson",
+  "blogTitle": "Gym Rat",
+  "blogPost": "A\r\ngym rat is almost addicted to working out in a commercial gym. They go at least 5-6\r\ntimes weekly and lift weights. Gym if rats can get a bit cranky if they miss more than 2 days in\r\na\r\nrow. Gym rats schedule their days around gym visits, they love to try new training\r\nprograms, they often carry log books around with themselves at the gym - diligently entered\r\nsets/reps/weight used."
+}

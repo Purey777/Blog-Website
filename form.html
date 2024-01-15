@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+    <!-- jQuery -->
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body class="form-body">
+    <h1>The Voice Blogs</h1>
+    <p>Blogs making headlines!</p>
+    <ul>
+      <li class="blog-list">The killer cat</li>
+      <li class="blog-list">
+        <a href="https://www.poochandmutt.co.uk/pages/valentines-day-dog-love"
+          >Tinder for dogs</a
+        >
+      </li>
+      <li class="blog-list">Saved secular rapper</li>
+      <li class="blog-list">My silly mouse</li>
+    </ul>
+    <p>Write your blog below 👇</p>
+    <div class="form-text">
+      <form class="blog-msg" method="POST" action="/form">
+        <label for="name">Name:</label>
+        <input
+          type="text"
+          class="input-text"
+          name="fullName"
+          placeholder="Blogger Name"
+        />
+        <label for="topic">Topic:</label>
+        <input
+          type="text"
+          class="input-text"
+          name="blogTitle"
+          placeholder="Blog Title"
+        />
+        <label for="blog">Blog:</label>
+        <textarea
+          class="input-text"
+          name="blogPost"
+          id=""
+          cols="30"
+          rows="10"
+          placeholder="Type blog here"
+        ></textarea>
+        <input type="submit" value="Submit" class="input-text" />
+      </form>
+    </div>
+  </body>
+</html>
