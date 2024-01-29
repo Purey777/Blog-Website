@@ -15,6 +15,9 @@ app.get("/", (req, res) => {
   res.render("index.ejs");
 });
 
+app.get("/contacts", (req, res) => {
+  res.render("partials/contacts.ejs");
+});
 app.get("/blog", (req, res) => {
   res.sendFile(__dirname + "/form.html");
 });
